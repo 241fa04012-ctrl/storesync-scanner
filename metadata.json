@@ -1,0 +1,6 @@
+{
+  "name": "StoreSync Scanner",
+  "description": "A high-performance QR and barcode scanner integrated with StoreSync for real-time inventory management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
